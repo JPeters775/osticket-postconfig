@@ -29,7 +29,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/de3ucUJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jmPVTzx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure Roles</h3>
 <p>
@@ -38,7 +39,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/10wqHmF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure Departments</h3>
 <p>
@@ -47,7 +48,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eWdL5Aw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure Teams</h3>
 <p>
@@ -56,7 +57,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kkHVq8D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Allow Anyone to Create Tickets</h3>
 <p>
@@ -65,7 +66,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KyBZgvO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure Agents</h3>
 <p>
@@ -74,7 +75,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9ZpXohY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure Users</h3>
 <p>
@@ -83,7 +84,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dFu0PkP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aBt3tlm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure SLAs</h3>
 <p>
@@ -92,7 +94,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aQNcd55.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HkHP7Ar.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <h3>Configure Help Topics</h3>
 <p>
