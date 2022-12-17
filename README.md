@@ -72,7 +72,7 @@ In the Admin Panel, go to Settings then Users. Under the Settings tab, if you wa
 </p>
 <h3>Configure Agents</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, go to Agents then Agents. Click "Add New Agent" to create a new agent profile. From here, you can add them to the Departments and Teams you created earlier. You can also give them a Role and allow them Accesses and Permissions.
 </p>
 <br />
 
@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <h3>Configure Users</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Agent Panel, go to Users then Users. Click "Add New User" to create a new user profile. From here, you can add their name, phone number and email.
 </p>
 <br />
 
@@ -91,7 +91,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <h3>Configure SLAs</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, go to Manage the SLA. Click "Add New SLA Plan" to create a new SLA plan. From here you can modify the name, resolve time and schedule for the SLA. 
 </p>
 <br />
 
@@ -101,6 +101,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <h3>Configure Help Topics</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, go to Manage then Help Topics. Click "Add New Help Topic" to create a new help topic. 
 </p>
 <br />
