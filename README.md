@@ -34,7 +34,9 @@ This tutorial outlines the post-install configuration of the open-source help de
 </p>
 <h3>Configure Roles</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Make sure you are in the Admin Panel. Check the top right of the screen. If it says "Agent Panel" that means you are in the Admin Panel. If it says "Admin Panel", that means you are in the Agent Panel. Click on it to change to the Admin Panel.
+
+In the Admin Panel, go to Agents then Roles. To create a new role, click "Add New Role". From there, you can create new roles and set permissions to the roles.
 </p>
 <br />
 
@@ -43,7 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <h3>Configure Departments</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, go to Agents then Departments. To create a new department, click "Add New Department". From there, you can create new departments.
 </p>
 <br />
 
@@ -52,7 +54,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <h3>Configure Teams</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, go to Agents then Teams. To create a new team, click "Add New Team". From there, you can create new teams.
 </p>
 <br />
 
@@ -61,7 +63,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <h3>Allow Anyone to Create Tickets</h3>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In the Admin Panel, go to Settings then Users. Under the Settings tab, if you want to allow anyone to create a ticket, make sure that the box next to "Registration Required: Require registration and login to create tickets" is unchecked.
 </p>
 <br />
 
